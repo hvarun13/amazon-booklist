@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amazon-booklist/static/css/main.b0cfce85.css",
+    "main.js": "/amazon-booklist/static/js/main.54e73d08.js",
+    "index.html": "/amazon-booklist/index.html",
+    "main.b0cfce85.css.map": "/amazon-booklist/static/css/main.b0cfce85.css.map",
+    "main.54e73d08.js.map": "/amazon-booklist/static/js/main.54e73d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0cfce85.css",
+    "static/js/main.54e73d08.js"
+  ]
+}
